@@ -14,7 +14,7 @@ https://resume.github.io/?asigalov61
 
 ### I hope you will enjoy my work.
 
-### Mosc sincerely,
+### Most sincerely,
 
 ### Alex
 
