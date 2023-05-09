@@ -12,11 +12,11 @@ https://resume.github.io/?asigalov61
 
 ### I currently do not have a public contact email so if you need to talk to me, please consider opening an issue or starting a new discussion in the repo(s) you are interested in. I will try to respond ASAP.
 
-I hope you will enjoy my work.
+### I hope you will enjoy my work.
 
-Mosc sincerely,
+### Mosc sincerely,
 
-Alex
+### Alex
 
 <!--
 **asigalov61/asigalov61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
