@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### My name is Alex and I am the creator and the maintainer of the Project Los Angeles
+
+### Check out my GitHub resume:
+
+https://resume.github.io/?asigalov61
+
+### And here are my overall stats on GitHub
+
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=asigalov61&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
