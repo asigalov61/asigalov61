@@ -6,7 +6,7 @@
 
 https://resume.github.io/?asigalov61
 
-### Listen to music samples on my SoundCloud
+### Listen to Project Los Angeles music samples on SoundCloud
 
 https://soundcloud.com/aleksandr-sigalov-61
 
