@@ -10,11 +10,11 @@
 
 ***
 
-## Listen to [Project Los Angeles Music Samples on SoundCloud](https://soundcloud.com/aleksandr-sigalov-61)
+## 🎧 Listen to [Project Los Angeles Music Samples on SoundCloud](https://soundcloud.com/aleksandr-sigalov-61) 🎧
 
 ***
 
-## Project Los Angeles repos reference list:
+## Project Los Angeles repos reference list
 
 ### 🔥[Los Angeles Music Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer)🔥
 
