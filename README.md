@@ -10,7 +10,7 @@
 
 ***
 
-## Listen to [Project Los Angeles music samples on SoundCloud](https://soundcloud.com/aleksandr-sigalov-61)
+## Listen to [Project Los Angeles Music Samples on SoundCloud](https://soundcloud.com/aleksandr-sigalov-61)
 
 ***
 
