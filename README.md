@@ -26,7 +26,7 @@
 
 ### 🥈[Euterpe X](https://github.com/asigalov61/Euterpe-X)🥈
 
-#### Most stable and capable model/implementation. Great for generating complex compositions.
+#### Most stable and capable model/implementation. Great for generating complex compositions
 
 ### 🥉[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥉
 
@@ -34,7 +34,7 @@
 
 ### 🎼[Orchestrator](https://github.com/asigalov61/Orchestrator)🎼
 
-#### Instruments arrangement/orchestration.
+#### Instruments arrangement/orchestration
 
 ### 🎹[GIGA-Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
 
