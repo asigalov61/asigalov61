@@ -42,6 +42,8 @@
 
 ### I currently do not have a public contact email so if you need to talk to me, please consider opening an issue or starting a new discussion in the repo(s) you are interested in. I will try to respond ASAP.
 
+***
+
 ### I hope you will enjoy my work :)
 
 ### Most sincerely,
