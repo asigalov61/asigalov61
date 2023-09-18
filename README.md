@@ -14,7 +14,7 @@
 
 ***
 
-## Repos reference list for Project Los Angeles:
+## Project Los Angeles repos reference list:
 
 ### 🔥[Los Angeles Music Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer)🔥
 
