@@ -32,6 +32,14 @@
 
 #### Need great drums?!? Look no further!!! :)
 
+### 🎼[Orchestrator](https://github.com/asigalov61/Orchestrator)🎼
+
+#### Instruments arrangement/orchestration.
+
+### 🎹[GIGA-Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
+
+#### Full-featured solo Piano model/implementation
+
 ***
 
 ## Check out [my GitHub resume](https://resume.github.io/?asigalov61)
