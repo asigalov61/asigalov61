@@ -32,7 +32,7 @@
 
 #### Most stable and capable model/implementation. Great for generating complex compositions
 
-### 🥉[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥉
+### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
 
 #### Need great drums?!? Look no further!!! :)
 
