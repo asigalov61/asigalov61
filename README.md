@@ -24,6 +24,10 @@
 
 #### Best model/implementation overall. Try it out! :)
 
+### 🎹[Full MIDI Music Transformer](https://github.com/asigalov61/Full-MIDI-Music-Transformer)🎹
+
+#### Full MIDI specification model/implementation
+
 ### 🥈[Euterpe X](https://github.com/asigalov61/Euterpe-X)🥈
 
 #### Most stable and capable model/implementation. Great for generating complex compositions
