@@ -28,6 +28,10 @@
 
 #### Most stable and capable model/implementation. Great for creating complex compositions
 
+### ⛤[Pentagram Music Transformer](https://github.com/asigalov61/Pentagram-Music-Transformer)⛤
+
+#### Full MIDI notes range model/implementation
+
 ### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
 
 #### Need great drums?!? Look no further!!! :)
