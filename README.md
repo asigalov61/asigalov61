@@ -28,6 +28,10 @@
 
 #### Most stable and capable model/implementation. Great for creating complex compositions
 
+### 7️ [Heptabit Music Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) 7️
+
+#### Long context (8k seq len - 2730 notes) model/implementation with true full MIDI instruments range
+
 ### ⛤[Pentagram Music Transformer](https://github.com/asigalov61/Pentagram-Music-Transformer)⛤
 
 #### Full MIDI notes range model/implementation
