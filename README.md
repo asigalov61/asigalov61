@@ -26,7 +26,7 @@
 
 ### 🐘 [Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer) 🐘
 
-#### SOTA (92% acc) long context (8k seq len / 2730 notes memory) model/implementation with true full MIDI instruments range and octo-velocity
+#### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
 
 ### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
 
@@ -42,7 +42,7 @@
 
 ### 📁[Los Angeles MIDI Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)📁
 
-#### Need MIDIs ?!? Here is a SOTA MIDI dataset just for that! :)
+#### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
 
 ### 2️[B CLassi](https://github.com/asigalov61/B-CLassi)2️
 
