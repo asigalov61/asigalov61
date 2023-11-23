@@ -24,17 +24,9 @@
 
 #### Best model/implementation overall. Try it out! :)
 
-### 🥈[Euterpe X](https://github.com/asigalov61/Euterpe-X)🥈
+### 🐘 [Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer) 🐘
 
-#### Most stable and capable model/implementation. Great for creating complex compositions
-
-### 7️ [Heptabit Music Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) 7️
-
-#### Long context (8k seq len / 2730 notes memory) model/implementation with true full MIDI instruments range
-
-### ⛤[Pentagram Music Transformer](https://github.com/asigalov61/Pentagram-Music-Transformer)⛤
-
-#### Full MIDI notes range model/implementation
+#### SOTA (92% acc) long context (8k seq len / 2730 notes memory) model/implementation with true full MIDI instruments range and octo-velocity
 
 ### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
 
@@ -44,9 +36,17 @@
 
 #### Instruments arrangement/orchestration
 
-### 🎹[GIGA-Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
+### 🎹[GIGA Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
 
 #### Full-featured solo Piano model/implementation
+
+### 📁[Los Angeles MIDI Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)📁
+
+#### Need MIDIs ?!? Here is a SOTA MIDI dataset just for that! :)
+
+### 2️[B CLassi](https://github.com/asigalov61/B-CLassi)2️
+
+#### Full-featured binary MIDI classifier model/implementation
 
 ***
 
