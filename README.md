@@ -24,7 +24,7 @@
 
 #### Best model/implementation overall. Try it out! :)
 
-### 🐘 [Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer) 🐘
+### 🐘[Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer)🐘
 
 #### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
 
@@ -44,7 +44,7 @@
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
 
-### 2️[B CLassi](https://github.com/asigalov61/B-CLassi)2️
+### 2️ [B CLassi](https://github.com/asigalov61/B-CLassi) 2️
 
 #### Full-featured binary MIDI classifier model/implementation
 
