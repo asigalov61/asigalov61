@@ -36,6 +36,10 @@
 
 #### Instruments arrangement/orchestration
 
+## ⭐[POP Melody Transformer](https://github.com/asigalov61/POP-Melody-Transformer)⭐
+
+### POP melody arrangement/extraction model/implementation
+
 ### 🎹[GIGA Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
 
 #### Full-featured solo Piano model/implementation
