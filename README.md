@@ -6,7 +6,7 @@
 
 ### Hi there! 👋
 
-### My name is Alex and I am the creator and the maintainer of the Project Los Angeles which is dedicated to helping build fair, safe, ethical, and RIGHT Artificial General Instelligence for humanity!
+### My name is Alex and I am the creator and the maintainer of the Project Los Angeles which is dedicated to helping build fair, safe, ethical, and RIGHT Artificial General Intelligence for humanity!
 
 ***
 
