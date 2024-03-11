@@ -43,6 +43,10 @@
 
 ### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
 
+### 🍀[Quad Music Transformer](https://github.com/asigalov61/Quad-Music-Transformer)🍀
+
+#### Quality over quantity model/implementation
+
 #### Need great drums?!? Look no further!!! :)
 
 ### 🎼[Orchestrator](https://github.com/asigalov61/Orchestrator)🎼
