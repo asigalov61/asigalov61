@@ -41,11 +41,11 @@
 
 #### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
 
-### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
-
 ### 🍀[Quad Music Transformer](https://github.com/asigalov61/Quad-Music-Transformer)🍀
 
 #### Quality over quantity model/implementation
+
+### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
 
 #### Need great drums?!? Look no further!!! :)
 
