@@ -14,6 +14,19 @@
 
 ***
 
+## Quick Start Guide
+
+### 🌱[Tiny Music Transformer](https://github.com/asigalov61/Tiny-Music-Transformer)🌱
+#### Tutorial model/implementation to get started
+
+### 🛠️[tegridy-tools](https://github.com/asigalov61/tegridy-tools)🛠️
+#### Ultimate symbolic music AI toolkit
+
+### 🎹[Tegridy MIDI Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset)🎹
+#### Comprehensive main MIDI dataset
+
+***
+
 ## Project Los Angeles repos reference list
 
 ### 🔥[Los Angeles Music Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer)🔥
