@@ -45,7 +45,7 @@
 
 #### Quality over quantity model/implementation
 
-### 🥁[Lars Ulrich Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer)🥁
+### 🥁[Ultimate Drums Transformer](https://github.com/asigalov61/Ultimate-Drums-Transformer)🥁
 
 #### Need great drums?!? Look no further!!! :)
 
