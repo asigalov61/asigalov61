@@ -43,7 +43,11 @@
 
 ### 🍀[Quad Music Transformer](https://github.com/asigalov61/Quad-Music-Transformer)🍀
 
-#### Quality over quantity model/implementation
+#### SOTA quality over quantity model/implementation
+
+### ♫[Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer)♫
+
+#### Chords-conditioned model/implemenentation for chords progressions and working with chords
 
 ### 🥁[Ultimate Drums Transformer](https://github.com/asigalov61/Ultimate-Drums-Transformer)🥁
 
