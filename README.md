@@ -45,9 +45,13 @@
 
 #### SOTA quality over quantity model/implementation
 
-### ♫[Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer)♫
+### ♫ [Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer) ♫
 
 #### Chords-conditioned model/implemenentation for chords progressions and working with chords
+
+### 🪈 [Ultimate Accompaniment Transformer](https://github.com/asigalov61/Ultimate-Accompaniment-Transformer) 🪈
+
+#### Accompaniment generation for any monophonic melody
 
 ### 🥁[Ultimate Drums Transformer](https://github.com/asigalov61/Ultimate-Drums-Transformer)🥁
 
