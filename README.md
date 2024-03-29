@@ -57,6 +57,10 @@
 
 #### Need great drums?!? Look no further!!! :)
 
+### 💬 [Text-to-Music Transformer](https://github.com/asigalov61/Text-to-Music-Transformer) 💬
+
+#### Barebone text-to-music multi-instrumental transformer model for fun and exploration
+
 ### 🎼[Orchestrator](https://github.com/asigalov61/Orchestrator)🎼
 
 #### Instruments arrangement/orchestration
