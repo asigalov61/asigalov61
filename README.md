@@ -16,6 +16,8 @@
 
 ## Quick Start Guide
 
+***
+
 ### 🌱[Tiny Music Transformer](https://github.com/asigalov61/Tiny-Music-Transformer)🌱
 #### Tutorial model/implementation to get started
 
