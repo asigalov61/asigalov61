@@ -29,53 +29,89 @@
 
 ## Project Los Angeles repos reference list
 
+***
+
 ### 🔥[Los Angeles Music Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer)🔥
 
 #### Most popular model/implementation!
+
+***
 
 ### 🥇[Allegro Music Transformer](https://github.com/asigalov61/Allegro-Music-Transformer)🥇
 
 #### Best model/implementation overall. Try it out! :)
 
+##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Allegro-Music-Transformer) 🤗
+
+***
+
 ### 🐘[Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer)🐘
 
 #### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
+
+***
 
 ### 🍀[Quad Music Transformer](https://github.com/asigalov61/Quad-Music-Transformer)🍀
 
 #### SOTA quality over quantity model/implementation
 
+***
+
 ### ♫ [Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer) ♫
 
 #### Chords-conditioned model/implemenentation for chords progressions and working with chords
+
+##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Transformer) 🤗
+
+***
 
 ### 🪈 [Ultimate Accompaniment Transformer](https://github.com/asigalov61/Ultimate-Accompaniment-Transformer) 🪈
 
 #### Accompaniment generation for any monophonic melody
 
+#### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Accompaniment-Transformer) 🤗
+
+***
+
 ### 🥁[Ultimate Drums Transformer](https://github.com/asigalov61/Ultimate-Drums-Transformer)🥁
 
 #### Need great drums?!? Look no further!!! :)
+
+##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Drums-Transformer) 🤗
+
+***
 
 ### 💬 [Text-to-Music Transformer](https://github.com/asigalov61/Text-to-Music-Transformer) 💬
 
 #### Barebone text-to-music multi-instrumental transformer model for fun and exploration
 
+##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Text-to-Music-Transformer) 🤗
+
+***
+
 ### 🎼[Orchestrator](https://github.com/asigalov61/Orchestrator)🎼
 
 #### Instruments arrangement/orchestration
+
+***
 
 ### ⭐[POP Melody Transformer](https://github.com/asigalov61/POP-Melody-Transformer)⭐
 
 #### POP melody arrangement/extraction model/implementation
 
+***
+
 ### 🎹[GIGA Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
 
 #### Full-featured solo Piano model/implementation
 
+***
+
 ### 📁[Los Angeles MIDI Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)📁
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
+
+***
 
 ### 2️ [B CLassi](https://github.com/asigalov61/B-CLassi) 2️
 
