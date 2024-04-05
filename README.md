@@ -51,6 +51,8 @@
 
 #### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
 
+##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Inpaint-Music-Transformer) 🤗
+
 ***
 
 ### 🍀[Quad Music Transformer](https://github.com/asigalov61/Quad-Music-Transformer)🍀
