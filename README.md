@@ -43,7 +43,7 @@
 
 #### Best model/implementation overall. Try it out! :)
 
-##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Allegro-Music-Transformer) 🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Allegro-Music-Transformer)🤗
 
 ***
 
@@ -51,7 +51,7 @@
 
 #### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
 
-##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Inpaint-Music-Transformer) 🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Inpaint-Music-Transformer)🤗
 
 ***
 
@@ -61,19 +61,25 @@
 
 ***
 
-### ♫ [Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer) ♫
+### ♫[Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer)♫
 
-#### Chords-conditioned model/implemenentation for chords progressions and working with chords
+#### Chords-conditioned model/implemenentation for chords progressions and for working with chords
 
-##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Transformer) 🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Transformer)🤗
 
 ***
 
-### 🪈 [Ultimate Accompaniment Transformer](https://github.com/asigalov61/Ultimate-Accompaniment-Transformer) 🪈
+### 🪈[Ultimate Accompaniment Transformer](https://github.com/asigalov61/Ultimate-Accompaniment-Transformer)🪈
 
 #### Accompaniment generation for any monophonic melody
 
-#### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Accompaniment-Transformer) 🤗
+#### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Accompaniment-Transformer)🤗
+
+***
+
+### 🪨[Rock-Melody Transformer](https://github.com/asigalov61/Rock-Melody-Transformer)🪨
+
+#### Multi-instrumental music transformer conditioned on melody and drums
 
 ***
 
@@ -81,15 +87,15 @@
 
 #### Need great drums?!? Look no further!!! :)
 
-##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Drums-Transformer) 🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Drums-Transformer)🤗
 
 ***
 
-### 💬 [Text-to-Music Transformer](https://github.com/asigalov61/Text-to-Music-Transformer) 💬
+### 💬[Text-to-Music Transformer](https://github.com/asigalov61/Text-to-Music-Transformer)💬
 
 #### Barebone text-to-music multi-instrumental transformer model for fun and exploration
 
-##### 🤗 [LIVE DEMO](https://huggingface.co/spaces/asigalov61/Text-to-Music-Transformer) 🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Text-to-Music-Transformer)🤗
 
 ***
 
@@ -117,7 +123,7 @@
 
 ***
 
-### 2️ [B CLassi](https://github.com/asigalov61/B-CLassi) 2️
+### 2️[B CLassi](https://github.com/asigalov61/B-CLassi)2️
 
 #### Full-featured binary MIDI classifier model/implementation
 
