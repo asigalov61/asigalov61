@@ -135,7 +135,7 @@
 
 ***
 
-### I currently do not have a public contact email so if you need to talk to me, please consider opening an issue or starting a new discussion in the repo(s) you are interested in. I will try to respond ASAP.
+### If you would like to contact me privately, you can find my public contact email on my main profile page. Alternatively, you can open an issue or start a new discussion in the repo(s) you are interested in. I will try to respond ASAP.
 
 ***
 
