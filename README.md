@@ -14,6 +14,10 @@
 
 ***
 
+## 🤗 Check out [Project Los Angeles LIVE demos on Hugging Face](https://huggingface.co/asigalov61) 🤗
+
+***
+
 ## Quick Start Guide
 
 ***
