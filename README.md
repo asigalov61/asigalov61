@@ -127,6 +127,12 @@
 
 ***
 
+### ✅[Ultimate MIDI Classifier](https://github.com/asigalov61/Ultimate-MIDI-Classifier)✅
+
+#### Classify absolutely any MIDI by genre, song and artist
+
+***
+
 ### 2️[B CLassi](https://github.com/asigalov61/B-CLassi)2️
 
 #### Full-featured binary MIDI classifier model/implementation
