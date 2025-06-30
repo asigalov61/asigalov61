@@ -18,6 +18,14 @@
 
 ***
 
+## 🎼 Create music with [Project Los Angeles MuseCraft](https://webchatappai.github.io/midi-gen/) 🎼
+
+***
+
+## 🔷 Train your own models with [Orpheus MIDI Model Maker](https://github.com/WebChatAppAi/Orpheus-Midi-Model-Maker) 🔷
+
+***
+
 ## Quick Start Guide
 
 ***
