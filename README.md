@@ -22,9 +22,6 @@
 
 ***
 
-### 🌱[Tiny Music Transformer](https://github.com/asigalov61/Tiny-Music-Transformer)🌱
-#### Tutorial model/implementation to get started
-
 ### 🛠️[tegridy-tools](https://github.com/asigalov61/tegridy-tools)🛠️
 #### Ultimate symbolic music AI toolkit
 
@@ -33,109 +30,46 @@
 
 ***
 
-## Project Los Angeles repos reference list
+## Project Los Angeles 2025 repos reference list
+### [Legacy repos reference list](https://github.com/asigalov61/asigalov61/blob/main/README_LEGACY.md)
 
 ***
 
-### 🔥[Los Angeles Music Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer)🔥
+### 🔥[Orpheus Music Transformer](https://huggingface.co/asigalov61/Orpheus-Music-Transformer)🔥
 
-#### Most popular model/implementation!
+#### Brand new SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
 
-***
-
-### 🥇[Allegro Music Transformer](https://github.com/asigalov61/Allegro-Music-Transformer)🥇
-
-#### Best model/implementation overall. Try it out! :)
-
-##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Allegro-Music-Transformer)🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/collections/asigalov61/orpheus-music-transformer-685c3c8e59ed1414c02bb8cd)🤗
 
 ***
 
-### 🐘[Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer)🐘
+### 🎹[Godzilla Piano Transformer](https://huggingface.co/asigalov61/Godzilla-Piano-Transformer)🎹
 
-#### SOTA long context high-precision model/implementation with true full MIDI instruments range and octo-velocity
+#### Fast 807M 4k solo Piano music transformer trained on 1.14M+ MIDIs
 
-##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Giant-Music-Transformer)🤗
-
-***
-
-### 🍀[Quad Music Transformer](https://github.com/asigalov61/Quad-Music-Transformer)🍀
-
-#### SOTA quality over quantity model/implementation
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Godzilla-Piano-Transformer)🤗
 
 ***
 
-### ♫[Chords Progressions Transformer](https://github.com/asigalov61/Chords-Progressions-Transformer)♫
+### ♫[Godzilla Piano Chords Texturing Transformer](https://huggingface.co/asigalov61/Godzilla-Piano-Transformer)♫
 
-#### Chords-conditioned model/implemenentation for chords progressions and for working with chords
+#### Chords-conditioned model/implemenentation for chords progressions texturing and for working with chords
 
-##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Chords-Progressions-Transformer)🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)🤗
 
 ***
 
-### 🪈[Ultimate Accompaniment Transformer](https://github.com/asigalov61/Ultimate-Accompaniment-Transformer)🪈
+### 🪈[Guided Accompaniment Transformer](https://huggingface.co/asigalov61/Guided-Accompaniment-Transformer)🪈
 
 #### Accompaniment generation for any monophonic melody
 
-#### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Accompaniment-Transformer)🤗
+#### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Guided-Accompaniment-Transformer)🤗
 
 ***
 
-### 🪨[Rock-Melody Transformer](https://github.com/asigalov61/Rock-Melody-Transformer)🪨
-
-#### Multi-instrumental music transformer conditioned on melody and drums
-
-***
-
-### 🥁[Ultimate Drums Transformer](https://github.com/asigalov61/Ultimate-Drums-Transformer)🥁
-
-#### Need great drums?!? Look no further!!! :)
-
-##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Ultimate-Drums-Transformer)🤗
-
-***
-
-### 💬[Text-to-Music Transformer](https://github.com/asigalov61/Text-to-Music-Transformer)💬
-
-#### Barebone text-to-music multi-instrumental transformer model for fun and exploration
-
-##### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Text-to-Music-Transformer)🤗
-
-***
-
-### 🎼[Orchestrator](https://github.com/asigalov61/Orchestrator)🎼
-
-#### Instruments arrangement/orchestration
-
-***
-
-### ⭐[POP Melody Transformer](https://github.com/asigalov61/POP-Melody-Transformer)⭐
-
-#### POP melody arrangement/extraction model/implementation
-
-***
-
-### 🎹[GIGA Piano XL](https://github.com/asigalov61/GIGA-Piano-XL)🎹
-
-#### Full-featured solo Piano model/implementation
-
-***
-
-### 📁[Los Angeles MIDI Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)📁
+### 📁[Godzilla MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)📁
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
-
-***
-
-### ✅[Ultimate MIDI Classifier](https://github.com/asigalov61/Ultimate-MIDI-Classifier)✅
-
-#### Classify absolutely any MIDI by genre, song and artist
-
-***
-
-### 2️[B CLassi](https://github.com/asigalov61/B-CLassi)2️
-
-#### Full-featured binary MIDI classifier model/implementation
 
 ***
 
@@ -154,11 +88,6 @@
 ### Most sincerely,
 
 ### Alex
-
-<!--
-**asigalov61/asigalov61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
