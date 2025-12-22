@@ -67,7 +67,7 @@
 
 ***
 
-### 📁[Godzilla MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Godzilla-MIDI-Dataset)📁
+### 📁[Discover MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset)📁
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
 
