@@ -67,6 +67,14 @@
 
 ***
 
+### 🥁[Awesome Drums Transformer](https://huggingface.co/asigalov61/Awesome-Drums-Transformer)🥁
+
+#### Need great drums?!? Look no further!!! :)
+
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/projectlosangeles/Awesome-Drums-Transformer)🤗
+
+***
+
 ### 📁[Discover MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset)📁
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
