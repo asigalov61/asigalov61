@@ -30,7 +30,7 @@
 
 ***
 
-## Project Los Angeles 2025 repos reference list
+## Project Los Angeles 2026 repos reference list
 ### [Legacy repos reference list](https://github.com/asigalov61/asigalov61/blob/main/README_LEGACY.md)
 
 ***
