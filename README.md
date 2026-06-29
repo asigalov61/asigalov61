@@ -10,6 +10,10 @@
 
 ***
 
+## 🎸Join [Project Los Angeles on Suno](https://suno.com/@projectlosangeles) 🎸
+
+***
+
 ## 🎧 Listen to [Project Los Angeles Music Samples on SoundCloud](https://soundcloud.com/aleksandr-sigalov-61) 🎧
 
 ***
