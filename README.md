@@ -55,11 +55,11 @@
 
 ***
 
-### ♫[Godzilla Piano Chords Texturing Transformer](https://huggingface.co/asigalov61/Godzilla-Piano-Transformer)♫
+### ♫[Discover Piano Chords Texturing Transformer](https://huggingface.co/asigalov61/Discover-Piano-Chords-Texturing-Transformer)♫
 
 #### Chords-conditioned model/implemenentation for chords progressions texturing and for working with chords
 
-##### 🤗[LIVE DEMO](https://huggingface.co/spaces/projectlosangeles/Godzilla-Piano-Chords-Texturing-Transformer)🤗
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/projectlosangeles/Discover-Piano-Chords-Texturing-Transformer)🤗
 
 ***
 
