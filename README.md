@@ -79,6 +79,14 @@
 
 ***
 
+### 🎼[Bidi Score](https://huggingface.co/projectlosangeles/bidiscore)🎼
+
+#### Bidirectional score 2 performance conversion with MIRE transformers
+
+##### 🤗[LIVE DEMO](https://huggingface.co/spaces/projectlosangeles/Bidi-Score)🤗
+
+***
+
 ### 📁[Discover MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset)📁
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
