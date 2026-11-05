@@ -18,10 +18,6 @@
 
 ***
 
-## 🎸Join [Project Los Angeles on Suno](https://suno.com/@projectlosangeles) 🎸
-
-***
-
 ## Quick Start Guide
 
 ***
@@ -87,11 +83,11 @@
 
 ***
 
-### 📁[Galaxy MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Galaxy-MIDI-Dataset)📁
+### 📁[Discover MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Discover-MIDI-Dataset)📁
 
 #### Need MIDIs?!? Here is a SOTA MIDI dataset just for that! :)
 
-#### 💾[GitHub](https://github.com/asigalov61/galaxymidi)💾
+#### 💾[GitHub](https://github.com/asigalov61/discovermidi)💾
 
 ***
 
