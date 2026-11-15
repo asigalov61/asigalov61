@@ -59,11 +59,11 @@
 
 ***
 
-### 🪈[Guided Accompaniment Transformer](https://huggingface.co/asigalov61/Guided-Accompaniment-Transformer)🪈
+### 🪈[Robust Accompaniment Transformer](https://huggingface.co/projectlosangeles/midirat)🪈
 
-#### Accompaniment generation for any monophonic melody
+#### Robust accompaniment generation for any monophonic melody MIDI
 
-#### 🤗[LIVE DEMO](https://huggingface.co/spaces/asigalov61/Guided-Accompaniment-Transformer)🤗
+#### 🤗[LIVE DEMO](https://huggingface.co/spaces/projectlosangeles/Robust-Accompaniment-Transformer)🤗
 
 ***
 
